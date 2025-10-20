@@ -208,7 +208,7 @@ closebutton.Font = "SourceSans"
 
 closebutton.Size = UDim2.new(0, 45, 0, 28)
 
-closebutton.Text = "×"
+closebutton.Text = "X"
 
 closebutton.TextSize = 30
 
@@ -226,7 +226,7 @@ mini.Font = "SourceSans"
 
 mini.Size = UDim2.new(0, 45, 0, 28)
 
-mini.Text = "Mini"
+mini.Text = "-"
 
 mini.TextSize = 40
 
