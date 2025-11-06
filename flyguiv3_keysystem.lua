@@ -5,17 +5,17 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 local Window = OrionLib:MakeWindow({Name = "KeySystem", HidePremium = true, SaveConfig = true, ConfigFolder = "OrionTest"})
 
 OrionLib:MakeNotification({
-	Name = "Your in!",
-	Content = "Your In The Special LEAN party",
+	Name = "Fly Gui V3 Keysystem",
+	Content = "The Fly GUI V3 Key System Script",
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
 
-_G.Key = "FreeKeyFly89108" -- You Put Your Key Here
+_G.Key = "FreeKeyFly89108"
 _G.KeyInput = "string"
 
 function MakeScriptHub()
-loadstring(game:HttpGet((""), true))() -- You Put Your Script Here
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/007n7scripts/FlyGuiScript/refs/heads/main/FlyGUIV3.lua"), true))() -- You Put Your Script Here
 
 end
 
@@ -23,7 +23,7 @@ end
 function CorrectKeyNotifications()
     OrionLib:MakeNotification({
         Name = "Correct Key",
-        Content = "Welcome To The LEAN PARTY :D",
+        Content = "Correct! Now Enjoying the Fly GUI V3 Script!",
         Image = "rbxassetid://4483345998",
         Time = 5
     })
@@ -32,7 +32,7 @@ end
 function WrongKeyNotifications()
     OrionLib:MakeNotification({
         Name = " Wrong Key",
-        Content = "Your Not on The List Kid",
+        Content = "You Wrong Password. You Not Enjoying the Script.",
         Image = "rbxassetid://4483345998",
         Time = 5
     })
