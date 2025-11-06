@@ -68,7 +68,7 @@ GetKeyButton.Text = "Get Key"
 GetKeyButton.Parent = frame
 
 GetKeyButton.MouseButton1Click:Connect(function()
- setclipboard("") 
+ setclipboard("https://loot-link.com/s?uooos5Py") 
 end)
         end
   	end    
