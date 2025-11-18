@@ -10,13 +10,13 @@
 -- the stuff for preperation
 local key = "FreeKeyFly89108" -- put youre key in here
 
-local keylink = "Key Link" -- put your key link here
+local keylink = "https://dsc.gg/key-flyguiv3" -- put your key link here
 
-local nameofthescript = "Script name" --put your script name here. leave blank too leave blank ig
+local nameofthescript = "Flyguiv3_ksm" --put your script name here. leave blank too leave blank ig
 
 local whoisitmadeby = "007n7scripter" -- put your name here
 
-local thenoteofthekey = "Note" --note you add here. leave blank to not have a note.
+local thenoteofthekey = "nothing in here :)" --note you add here. leave blank to not have a note.
 
 
 -- Instances:
