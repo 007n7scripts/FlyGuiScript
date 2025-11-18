@@ -8,7 +8,7 @@
 -- Version: 3.2
 
 -- the stuff for preperation
-local key = "FreeKeyFly89108" -- put youre key in here
+local key = "ProjectKeyFly-6190768" -- put youre key in here
 
 local keylink = "https://dsc.gg/key-flyguiv3" -- put your key link here
 
